@@ -1,5 +1,5 @@
-# Wise
-# Campus_Connect — An all-purpose app for Students, Professors, and Admins 🎓
+# Wise Round 3
+# Campus_Connect — An all-purpose app for Students, Professors, and Admins 
 
 A robust and modern student portal designed for **Professors**, **Students**, and **Administrators**.  
 Campus_Connect is a feature-rich platform designed to simplify academic workflows for students, professors, and administrators. The system offers a secure role-based login system where users are authenticated using JSON Web Tokens (JWT) and assigned specific roles — ensuring each user accesses only the features intended for them. Professors can manage courses, create assignments, track student attendance, and assign grades from an intuitive and organized dashboard, and admin can create users, create departmnents, create courses and so on while students can easily view, submit, and monitor their assignments, attendance records, and grades from their dedicated portal.
