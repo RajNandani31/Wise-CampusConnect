@@ -46,14 +46,15 @@ npm i
 npm run dev
 ```
 3. **Open the backend:**
-   Add necessary credentials in .env
+      Rename the file from .env.example to .env. Add your own database url and JWT secret key.
+      
 ```bash
 cd campusconnect-backend
 npm i
 npm run dev
 ```
 4. **Open the announcement:**
-   Add necessary credentials in .env
+   Rename the file from .env.example to .env. Add your own database url and JWT secret key.
 ```bash
 cd campusconnect-announcement
 npm i
